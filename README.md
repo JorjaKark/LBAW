@@ -6,8 +6,8 @@
 - [X] 1.2 The goal of the artifact is briefly presented (1, 2 sentences)
 
 ## UML
-- [ ] 2.1 The actors diagram is presented - > a terminar
-- [ ] 2.2 Actors are represented using standard UML -> a terminar
+- [X] 2.1 The actors diagram is presented - > duvidas
+- [X] 2.2 Actors are represented using standard UML
 - [X] 2.3 Generalizations are represented using standard UML
 - [X] 2.4 Standard graphic elements and practices are used (e.g. no colors, only black & white)
 
@@ -16,14 +16,14 @@
 - [X] 3.2 Generic actors are at the top, specializations under them
 - [ ] 3.3 Each actor is briefly described -> falta uml pa terminar
 - [X] 3.4 Actors represent roles
-- [ ] 3.5 All actors can be mapped to the user roles described in A1 -> a terminar
-- [ ] 3.6 Actors clearly map all the user roles defined in A1 -> a terminar
+- [ ] 3.5 All actors can be mapped to the user roles described in A1 
+- [ ] 3.6 Actors clearly map all the user roles defined in A1 
 - [ ] 3.7 A non-authenticated actor is defined (the most general)
-- [ ] 3.8 There is a 'Visitor' role for sign-up and login actions
+- [X] 3.8 There is a 'Visitor' role for sign-up and login actions
 - [ ] 3.9 An authenticated actor is defined (distinct from the ‘registered user’)
 - [X] 3.10 An administrator actor is defined
-- [ ] 3.11 If used, external APIs are identified by the service name (e.g. “Google Maps API”)
-- [ ] 3.12 The author/owner of the post/comment/bid/etc is defined (depends on the project theme)
+- [X] 3.11 If used, external APIs are identified by the service name (e.g. “Google Maps API”) -> nao vamos usar
+- [X] 3.12 The author/owner of the post/comment/bid/etc is defined (depends on the project theme)
 
 ## User Stories
 - [X] 4.1 User stories are organized in one section per actor

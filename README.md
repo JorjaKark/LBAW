@@ -2,10 +2,10 @@
 # A2: Actors and User Stories – Checklist
 
 Dúvidas a perguntar ao stor:
-1 - perguntar a cena de ser redundante do business rules 04 e o user story do admin(segunda)
-2 - perguntar sobre as ambiguidades dos actors
-3 - sobre o TR07
-4 - perguntar sobre o login/logout/sign up e visitor nas user stories , tanto sobre o placement (em que tabela os meter), como da prioridade deles
+- 1 - perguntar a cena de ser redundante do business rules 04 e o user story do admin(segunda)
+- 2 - perguntar sobre as ambiguidades dos actors
+- 3 - sobre o TR07
+- 4 - perguntar sobre o login/logout/sign up e visitor nas user stories , tanto sobre o placement (em que tabela os meter), como da prioridade deles
 
 
 ## Artifact

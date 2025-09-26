@@ -18,7 +18,7 @@
 - [X] 3.4 Actors represent roles
 - [ ] 3.5 All actors can be mapped to the user roles described in A1 
 - [ ] 3.6 Actors clearly map all the user roles defined in A1 
-- [ ] 3.7 A non-authenticated actor is defined (the most general)
+- [X] 3.7 A non-authenticated actor is defined (the most general)
 - [X] 3.8 There is a 'Visitor' role for sign-up and login actions
 - [ ] 3.9 An authenticated actor is defined (distinct from the ‘registered user’)
 - [X] 3.10 An administrator actor is defined

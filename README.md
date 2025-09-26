@@ -2,22 +2,22 @@
 # A2: Actors and User Stories – Checklist
 
 ## Artifact
-- [ ] 1.1 The artifact reference and name are clear
-- [ ] 1.2 The goal of the artifact is briefly presented (1, 2 sentences)
+- [X] 1.1 The artifact reference and name are clear
+- [X] 1.2 The goal of the artifact is briefly presented (1, 2 sentences)
 
 ## UML
-- [ ] 2.1 The actors diagram is presented
-- [ ] 2.2 Actors are represented using standard UML
-- [ ] 2.3 Generalizations are represented using standard UML
+- [ ] 2.1 The actors diagram is presented - > a terminar
+- [ ] 2.2 Actors are represented using standard UML -> a terminar
+- [X] 2.3 Generalizations are represented using standard UML
 - [X] 2.4 Standard graphic elements and practices are used (e.g. no colors, only black & white)
 
 ## Actors
 - [X] 3.1 Actors are vertically organized
-- [ ] 3.2 Generic actors are at the top, specializations under them
-- [ ] 3.3 Each actor is briefly described
+- [X] 3.2 Generic actors are at the top, specializations under them
+- [ ] 3.3 Each actor is briefly described -> falta uml pa terminar
 - [X] 3.4 Actors represent roles
-- [ ] 3.5 All actors can be mapped to the user roles described in A1
-- [ ] 3.6 Actors clearly map all the user roles defined in A1
+- [ ] 3.5 All actors can be mapped to the user roles described in A1 -> a terminar
+- [ ] 3.6 Actors clearly map all the user roles defined in A1 -> a terminar
 - [ ] 3.7 A non-authenticated actor is defined (the most general)
 - [ ] 3.8 There is a 'Visitor' role for sign-up and login actions
 - [ ] 3.9 An authenticated actor is defined (distinct from the ‘registered user’)
@@ -31,8 +31,8 @@
 - [X] 4.3 User stories specify roles [who]
 - [X] 4.4 User stories have capabilities [what]
 - [X] 4.5 User stories have benefits [why]
-- [ ] 4.6 Each user story identifies its responsible group member
-- [ ] 4.7 User stories have priorities [prototype, product, innovation]
+- [X] 4.6 Each user story identifies its responsible group member
+- [ ] 4.7 User stories have priorities [prototype, product, innovation] -> falta innovation
 - [X] 4.8 User stories are ordered by priority
 - [ ] 4.9 User stories do not overlap
 - [ ] 4.10 User stories have an adequate and consistent granularity
@@ -40,19 +40,19 @@
 - [X] 4.12 User stories cover all mandatory features from the theme
 - [X] 4.13 User stories cover all mandatory features from the Common Requirements
 - [ ] 4.14 User stories include additional group-proposed features [innovation]
-- [ ] 4.15 Login is included
-- [ ] 4.16 Logout is included
-- [ ] 4.17 View/Edit own profile is included
-- [ ] 4.18 Edit/Delete own data (e.g. post/bid)
-- [ ] 4.19 Search posts/questions/tasks/users/etc is included
-- [ ] 4.20 There are user stories to support user management
+- [X] 4.15 Login is included (duvida do sitio)
+- [X] 4.16 Logout is included (duvida do sitio)
+- [X] 4.17 View/Edit own profile is included  
+- [X] 4.18 Edit/Delete own data (e.g. post/bid)
+- [X] 4.19 Search posts/questions/tasks/users/etc is included
+- [X] 4.20 There are user stories to support user management
 
 ## Supplementary Requirements
-- [ ] 5.1 Business rules (BR) are included
-- [ ] 5.2 Includes BR for "can a user vote/comment/review its own stories/answers"
-- [ ] 5.3 Includes BR for "when user is deleted what happens to its content"
-- [ ] 5.4 Includes BR for dates (e.g., exit date >= entry date)
-- [ ] 5.5 Technical requirements (TR) are included
-- [ ] 5.6 Three most critical TR are identified and justified
-- [ ] 5.7 Other restrictions are included
+- [X] 5.1 Business rules (BR) are included
+- [X] 5.2 Includes BR for "can a user vote/comment/review its own stories/answers"
+- [X] 5.3 Includes BR for "when user is deleted what happens to its content"
+- [X] 5.4 Includes BR for dates (e.g., exit date >= entry date)
+- [X] 5.5 Technical requirements (TR) are included
+- [X] 5.6 Three most critical TR are identified and justified
+- [X] 5.7 Other restrictions are included
 

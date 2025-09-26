@@ -34,8 +34,8 @@
 - [X] 4.6 Each user story identifies its responsible group member
 - [ ] 4.7 User stories have priorities [prototype, product, innovation] -> falta innovation
 - [X] 4.8 User stories are ordered by priority
-- [ ] 4.9 User stories do not overlap
-- [ ] 4.10 User stories have an adequate and consistent granularity
+- [X] 4.9 User stories do not overlap
+- [X] 4.10 User stories have an adequate and consistent granularity
 - [X] 4.11 User stories cover all features described in A1
 - [X] 4.12 User stories cover all mandatory features from the theme
 - [X] 4.13 User stories cover all mandatory features from the Common Requirements
